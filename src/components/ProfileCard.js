@@ -103,7 +103,7 @@ const ProfileCard = ({ gridPosition }) => {
   return (
     <Wrapper gridPos={gridPosition} background={colorsPallete['darkBlue']}>
       <PersonalInformationWrapper background={colorsPallete['blue']}>
-        <CircularProfilePicture src="/images/image-jeremy.png"></CircularProfilePicture>
+        <CircularProfilePicture src="./images/image-jeremy.png"></CircularProfilePicture>
         <div style={{paddingTop: '40px'}}>
           <ReportText>Report for</ReportText>
           <Username>Michael Solomon</Username>
