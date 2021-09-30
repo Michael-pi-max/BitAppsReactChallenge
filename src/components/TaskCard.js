@@ -115,7 +115,7 @@ const headerColorPicker = (index) => {
 }
 
 const headerImage = (imageName) => {
-  let imagePath = `/images/icon-`;
+  let imagePath = `./images/icon-`;
   switch(imageName){
     case "Work":
       return imagePath.concat("work.svg");
@@ -217,7 +217,7 @@ const TaskCard = ({ title, timeframes, index }) => {
               </div>
           </Modal>
           <Button onClick={() => setIsOpen(true)}>
-            <ElippsiesIcon src="/images/icon-ellipsis.svg"></ElippsiesIcon>
+            <ElippsiesIcon src="./images/icon-ellipsis.svg"></ElippsiesIcon>
           </Button>
         </BodyTop>
         <BodyBottom>
