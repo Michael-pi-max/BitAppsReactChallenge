@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/BitAppsReactChallenge/static/css/main.c7ab4ef2.chunk.css",
-    "main.js": "/BitAppsReactChallenge/static/js/main.3f3e93ef.chunk.js",
-    "main.js.map": "/BitAppsReactChallenge/static/js/main.3f3e93ef.chunk.js.map",
+    "main.js": "/BitAppsReactChallenge/static/js/main.2d8cc536.chunk.js",
+    "main.js.map": "/BitAppsReactChallenge/static/js/main.2d8cc536.chunk.js.map",
     "runtime-main.js": "/BitAppsReactChallenge/static/js/runtime-main.32445087.js",
     "runtime-main.js.map": "/BitAppsReactChallenge/static/js/runtime-main.32445087.js.map",
     "static/js/2.a7ddd793.chunk.js": "/BitAppsReactChallenge/static/js/2.a7ddd793.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.32445087.js",
     "static/js/2.a7ddd793.chunk.js",
     "static/css/main.c7ab4ef2.chunk.css",
-    "static/js/main.3f3e93ef.chunk.js"
+    "static/js/main.2d8cc536.chunk.js"
   ]
 }
